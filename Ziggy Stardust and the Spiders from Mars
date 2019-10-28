@@ -1,0 +1,6 @@
+my_array = ["deer", "elk", "turkey"]
+
+my_array << "waterfowl"
+
+p my_array
+
